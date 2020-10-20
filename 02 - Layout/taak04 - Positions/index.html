@@ -18,12 +18,17 @@
             background-color: greenyellow;
         }
 
-        #child-2{
+        #absoluteElement{
             background-color: orangered;
+            top:30px;
+            right:0px;
         }
 
-        #child-3{
+        #fixedElement{
             background-color: slateblue;
+            position: fixed;
+            bottom:0;
+            
         }
     </style>
 </head>
@@ -32,8 +37,8 @@
     <div class="parent">
         <h1>Parent</h1>
         <div id="child-1" class="children"><h1 id="kop1">Een</h1></div>
-        <div id="child-2" class="children"><h1 id="kop2">Twee</h1></div>
-        <div id="child-3" class="children"><h1 id="kop3">Drie</h1></div>
+        <div id="absoluteElement" class="absoluteElement"><relative id="kop2">Twee<relative</div>
+        <div id="fixedElement" class="fixedElement"><h1 id="kop3">Drie</h1></div>
     </div>
 
 </body>
