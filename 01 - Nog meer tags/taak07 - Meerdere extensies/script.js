@@ -3,13 +3,8 @@
     <head>
     <meta charset="UTF-8">
     <title>Meedere bestanden en extenties</title>
-    <style>
-        h1{
-            background-color: #daa420;
-        }
-    </style>
     </head>
     <body>
         <h1>Hello world!</h1>
+        <script src="script.js"></script> <!-- het bestand is een extern JS bestand -->
     </body>
-</html>
