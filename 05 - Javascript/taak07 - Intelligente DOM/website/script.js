@@ -6,4 +6,7 @@ console.log(window.document);
 // document.querySelector("#posterimg1").src = null;
 
 
-// document.querySelector("#poster1");
+//var elem = document.querySelector("#poster1");
+style.backgroundColor = 'red';
+style="color: purple; background-color: 
+
