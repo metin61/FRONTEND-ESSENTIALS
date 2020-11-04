@@ -1,9 +1,9 @@
 let bezoeker = {
-    voornaam: "",
-    achternaam: "",
-    email: 22,
-    leeftijd:,
-    woonplaats:,
+    voornaam: 
+    achternaam
+    email 
+    leeftijd
+    woonplaats
     
    }
 console.log (bezoeker);
