@@ -16,12 +16,23 @@
 #bovenkant{
     width: 800px;
     height: 250px;
-    background-color:white;
+    background-color:red;
 }
 
 #onderkant{
     width: 800px;
     height: 250px;
-    background-color:red;
+    background-color:white;
 }
-
+#midden{
+    width: 800px;
+    height: 250px;
+    background-color:blue;   
+            
+            
+             
+           
+            
+            
+        
+}
