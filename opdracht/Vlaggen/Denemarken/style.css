@@ -14,22 +14,25 @@
 /* Hieronder kun je gaan editen */
 
 #bovenkant{
+    border-bottom: solid 30px white;
     width: 800px;
-    height: 250px;
-    background-color:rgb(0, 183, 255);
+    height: 235px;
+    background-color:red
 }
 
 #onderkant{
-    width: 790px;
-    height: 80px;
-    background-color:black;
-    border-left: 10px solid white;
+    width: 800px;
+    height: 235px;
+    background-color:red;
+    
    
 }
-#midden{
-    width: 800px;
-    height: 250px;
-    background-color:rgb(0, 183, 255);   
+#links{
+    border-right: solid 30px white;
+    width: 250px;
+    height: 235px;
+    background-color:red;
+    
             
             
              
